@@ -22,5 +22,5 @@ jobs:
           pip install -r requirements.txt
           playwright install
 
-      - name: Run Table Sum Script - 23f2005552@ds.study.iitm.ac.in
+      - name: Run Table Sum Script - 24f2002015@ds.study.iitm.ac.in
         run: python sum_tables.py
